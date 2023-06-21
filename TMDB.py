@@ -34,7 +34,7 @@ import json
 
 
 # To get the API
-response = requests.get("https://api.themoviedb.org/3/movie/550?api_key=82860678603c30cb74ba5f32be02e2f7")
+response = requests.get("API link")
 
 
 # # DataSet
